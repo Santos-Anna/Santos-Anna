@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JAVA,Python,HTML,CSS and JavaScript
 - 📫 How to reach me: anna.bsantosc@gmail.com
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/cabral.beatryz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cabral.beatryz/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatryz-bb5bba297/)
 
 ![Santos-Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos-Anna&show_icons=true&theme=radical)
